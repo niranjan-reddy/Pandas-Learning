@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e77cae5e-0497-44a2-93d2-5b6e50e46625" name="Changes" comment="" />
+    <list default="true" id="e77cae5e-0497-44a2-93d2-5b6e50e46625" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Tate_Artwork_Exploration-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Tate_Artwork_Exploration-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Tate_Artwork_Indexing_and_Filtering-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Tate_Artwork_Indexing_and_Filtering-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tate_Artwork_Exploration.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Tate_Artwork_Exploration.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tate_Artwork_Indexing_and_Filtering.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Tate_Artwork_Indexing_and_Filtering.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_frame.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/data_frame.pickle" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,9 +24,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2XyAWfgyengSmseU2aMkmXGT991" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -26,6 +37,10 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -39,7 +54,11 @@
       <option name="presentableId" value="Default" />
       <updated>1699590981801</updated>
       <workItem from="1699590986117" duration="47000" />
+      <workItem from="1699597044388" duration="2367000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
