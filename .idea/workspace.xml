@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e77cae5e-0497-44a2-93d2-5b6e50e46625" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Tate_Artwork_Export_Data.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/columns.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multiple_sheets.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/no_index.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_database.db" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tate_Artwork_Operations_on_Groups.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Tate_Artwork_Operations_on_Groups.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tate_Artwork_Export_Data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Tate_Artwork_Export_Data.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1699590981801</updated>
       <workItem from="1699590986117" duration="47000" />
-      <workItem from="1699597044388" duration="7123000" />
+      <workItem from="1699597044388" duration="7592000" />
     </task>
     <servers />
   </component>
